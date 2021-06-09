@@ -26,6 +26,7 @@ DRA-app is deployed to Heroku and GAE
 
 ```
 [DRA stage 3 Sanjay]
+[DRA Stage 6]
 
 ```
 
